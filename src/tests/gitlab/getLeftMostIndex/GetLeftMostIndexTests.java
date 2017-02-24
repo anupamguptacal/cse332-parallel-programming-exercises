@@ -40,6 +40,7 @@ public class GetLeftMostIndexTests extends TestsUtility {
         test("checkSmallSequential");
         test("checkSmallParallel");
         test("checkLarge");
+        test("checkParallelism");
         finish();
     }
 
